@@ -31,6 +31,14 @@ header {
     border-radius: 10px;
 }
 
+.header-content a {
+    color: #1171d8;
+}
+
+.header-content a:hover {
+    color: #095db6;
+}
+
 header h1 {
     font-size: 3em;
     margin-bottom: 10px;
